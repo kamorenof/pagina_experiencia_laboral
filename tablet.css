@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.perfil{
+    width: 35%;
+}
+.section-right{
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    margin-left: 2rem;
+}
+.container{
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
